@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 5 px solid limegreen;
+  background-color: orange;
+  padding: 5px;
+  border-radius: 10px;
+}
